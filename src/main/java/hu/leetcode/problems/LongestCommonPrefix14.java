@@ -2,7 +2,7 @@ package hu.leetcode.problems;
 
 import java.util.*;
 
-public class LongestCommonPrefix {
+public class LongestCommonPrefix14 {
     public String longestCommonPrefix(String[] strs) {
 
         String result = "";

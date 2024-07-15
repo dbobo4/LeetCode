@@ -3,7 +3,7 @@ package hu.leetcode.problems;
 import java.util.ArrayList;
 import java.util.List;
 
-public class RomanToInteger {
+public class RomanToInteger13 {
     public int romanToInt(String s) {
 
         String[] romanSymbols = {"I", "V", "X", "L", "C", "D", "M"};
